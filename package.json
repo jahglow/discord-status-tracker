@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "name": "discord-status-tracker",
+  "description": "A bookmarklet/console script to track friends discord.com online activity with a report to browser console",
+  "author": {
+    "name": "John Archer",
+    "email": "jahglow@gmail.com"
+  },
+  "license": "MIT",
+  "main": "index.js"
+}
